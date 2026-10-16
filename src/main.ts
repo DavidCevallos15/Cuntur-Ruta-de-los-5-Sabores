@@ -1,4 +1,5 @@
 import Phaser from 'phaser';
+import { inject } from '@vercel/analytics';
 import '@fontsource/pixelify-sans/latin-400.css';
 import '@fontsource/pixelify-sans/latin-600.css';
 import { PreloadScene } from './scenes/PreloadScene.ts';
@@ -7,6 +8,9 @@ import { GameScene } from './scenes/GameScene.ts';
 import { CreditsScene } from './scenes/CreditsScene.ts';
 import { GEO } from './content/course.ts';
 import { ZOOM } from './game/ui.ts';
+
+// Vercel Web Analytics (visitas, páginas, países, dispositivos). Sin cookies; en local solo registra en consola.
+inject({ mode: import.meta.env.PROD ? 'production' : 'development' });
 
 async function boot() {
   try { await Promise.all([document.fonts.load('10px "Pixelify Sans"'), document.fonts.load('600 10px "Pixelify Sans"')]); } catch { /* sigue con la fuente de respaldo */ }

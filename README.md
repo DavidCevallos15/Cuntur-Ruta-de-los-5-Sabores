@@ -72,6 +72,7 @@ Cada frase guarda en `src/content/phrases.json` de dónde viene. Las que mencion
 | Arte | Pixel art procedural (`src/art`): cóndor, 10 peligros, 5 platos, 6 personajes y fondos parallax por región |
 | Audio | Efectos y 6 pistas de música sintetizados con Python (`tools/gen_sfx.py`, `tools/gen_music.py`) |
 | Pruebas | Playwright: un bot gana los 5 mundos; también derrota, reintento, pausa, cambio de pestaña y aviso de orientación |
+| Métricas | Vercel Web Analytics (`@vercel/analytics`), sin cookies |
 
 ## Correr el proyecto
 
