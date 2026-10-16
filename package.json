@@ -1,0 +1,31 @@
+{
+  "name": "cuntur",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host",
+    "validate": "node tools/validate-course.ts",
+    "sfx": "python3 tools/gen_sfx.py public/assets/audio/sfx",
+    "music": "python3 tools/gen_music.py",
+    "test": "node tests/e2e.mjs",
+    "shots": "node tests/shots.mjs /tmp",
+    "sheet": "node tests/sheet.mjs"
+  },
+  "dependencies": {
+    "phaser": "4.2.1"
+  },
+  "devDependencies": {
+    "@fontsource/pixelify-sans": "^5.3.0",
+    "@types/node": "^26.6.5",
+    "playwright": "^1.64.1",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.4"
+  },
+  "engines": {
+    "node": ">=22.18"
+  },
+  "author": "David Cevallos (https://davidcevallos.vercel.app/)"
+}

@@ -1,0 +1,10 @@
+{
+  "W": 480, "H": 270,
+  "CELL_W": 56, "COLS": 25, "ROWS": 9, "ROW0_Y": 28, "CELL_H": 24,
+  "GROUND_Y": 248, "FLOOR_HIT_Y": 240, "CEIL_HIT_Y": 8,
+  "RUN_IN": 240, "END_PAD": 120,
+  "hazards": { "g": { "w": 18, "h": 12 }, "B": { "w": 22, "h": 92 } },
+  "food": { "w": 14, "h": 14 },
+  "player": { "hitW": 12, "hitH": 9, "screenX": 120, "startY": 124 },
+  "plan": { "upRate": 130, "downRate": 170, "margin": 3, "dx": 4, "dy": 2 }
+}

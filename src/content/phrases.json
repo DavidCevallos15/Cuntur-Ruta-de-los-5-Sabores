@@ -1,0 +1,518 @@
+{
+ "_nota": "enabled:false = no sale en el juego. source: documentada (artículo citado en ref; vigencia por probar con jugadores) | jerga-verificada (listas de modismos) | jerga | original. Agrega aquí tus frases de TikTok/TV.",
+ "phrases": [
+  {
+   "id": "t_llora",
+   "text": "El que no llora no mama",
+   "event": "talker",
+   "world": "costa",
+   "source": "documentada",
+   "weight": 1,
+   "enabled": true,
+   "ref": "https://www.primicias.ec/noticias/el-chat/frases-celebres-guayacas-hilo-twitter"
+  },
+  {
+   "id": "t_belleza",
+   "text": "¡Belleza, mi ñaño!",
+   "event": "talker",
+   "world": "costa",
+   "source": "documentada",
+   "weight": 1,
+   "enabled": true,
+   "ref": "https://www.primicias.ec/noticias/el-chat/frases-celebres-guayacas-hilo-twitter"
+  },
+  {
+   "id": "t_camaron",
+   "text": "Más perdido que camarón en locro",
+   "event": "talker",
+   "world": "costa",
+   "source": "documentada",
+   "weight": 1,
+   "enabled": true,
+   "ref": "https://www.primicias.ec/noticias/el-chat/frases-celebres-guayacas-hilo-twitter"
+  },
+  {
+   "id": "t_pinas",
+   "text": "No llevarás piñas a Milagro",
+   "event": "talker",
+   "world": "costa",
+   "source": "documentada",
+   "weight": 1,
+   "enabled": true,
+   "ref": "https://www.primicias.ec/noticias/el-chat/frases-celebres-guayacas-hilo-twitter"
+  },
+  {
+   "id": "t_habla",
+   "text": "Habla bien, pues",
+   "event": "talker",
+   "world": "costa",
+   "source": "documentada",
+   "weight": 1,
+   "enabled": true,
+   "ref": "https://www.primicias.ec/noticias/el-chat/frases-celebres-guayacas-hilo-twitter"
+  },
+  {
+   "id": "t_zota",
+   "text": "¡Mete esa zota!",
+   "event": "talker",
+   "world": "costa",
+   "source": "documentada",
+   "weight": 1,
+   "enabled": true,
+   "ref": "https://www.primicias.ec/noticias/el-chat/frases-celebres-guayacas-hilo-twitter"
+  },
+  {
+   "id": "t_caleta",
+   "text": "Me voy a caleta…",
+   "event": "talker",
+   "world": "costa",
+   "source": "documentada",
+   "weight": 1,
+   "enabled": true,
+   "ref": "https://www.primicias.ec/noticias/el-chat/frases-celebres-guayacas-hilo-twitter"
+  },
+  {
+   "id": "t_focote",
+   "text": "No seas focote, ñaño",
+   "event": "talker",
+   "world": "costa",
+   "source": "documentada",
+   "weight": 1,
+   "enabled": true,
+   "ref": "https://www.primicias.ec/noticias/el-chat/frases-celebres-guayacas-hilo-twitter"
+  },
+  {
+   "id": "t_chiro",
+   "text": "Ando chiro, mi llave",
+   "event": "talker",
+   "world": "costa",
+   "source": "documentada",
+   "weight": 1,
+   "enabled": true,
+   "ref": "https://www.primicias.ec/noticias/el-chat/frases-celebres-guayacas-hilo-twitter"
+  },
+  {
+   "id": "t_peloteo",
+   "text": "¿Vamos al peloteo?",
+   "event": "talker",
+   "world": "costa",
+   "source": "documentada",
+   "weight": 1,
+   "enabled": true,
+   "ref": "https://www.primicias.ec/noticias/el-chat/frases-celebres-guayacas-hilo-twitter"
+  },
+  {
+   "id": "t_esreal",
+   "text": "¡Ah, es real!",
+   "event": "talker",
+   "world": "costa",
+   "source": "documentada",
+   "weight": 1,
+   "enabled": true,
+   "ref": "https://www.expreso.ec/ocio/virales-fama-llego-sorpresa-130501.html"
+  },
+  {
+   "id": "t_isl0",
+   "text": "¡Pilas con la iguana, ñaño!",
+   "event": "talker",
+   "world": "islas",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "t_isl1",
+   "text": "Aquí hasta el pelícano pide yapa",
+   "event": "talker",
+   "world": "islas",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "t_isl2",
+   "text": "Ceviche de atún y pa' la hamaca",
+   "event": "talker",
+   "world": "islas",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "t_isl3",
+   "text": "¡Qué chévere está el mar!",
+   "event": "talker",
+   "world": "islas",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "t_isl4",
+   "text": "Despacito, que las tortugas van primero",
+   "event": "talker",
+   "world": "islas",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "t_isl5",
+   "text": "¡Ñaño, cuidado con el lobo marino!",
+   "event": "talker",
+   "world": "islas",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "t_sie0",
+   "text": "¡Achachay, qué frío, ve!",
+   "event": "talker",
+   "world": "viento",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "t_sie1",
+   "text": "Mijo, ¿le sirvo con yapita?",
+   "event": "talker",
+   "world": "viento",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "t_sie2",
+   "text": "¡Ayayay, qué viento!",
+   "event": "talker",
+   "world": "viento",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "t_sie3",
+   "text": "¡Qué bacán el Cotopaxi!",
+   "event": "talker",
+   "world": "viento",
+   "source": "jerga-verificada",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "t_sie4",
+   "text": "Mande, ¿cómo dijo?",
+   "event": "talker",
+   "world": "viento",
+   "source": "jerga-verificada",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "t_sie5",
+   "text": "Llapingachos calientitos, ¡al toque!",
+   "event": "talker",
+   "world": "viento",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "t_sie6",
+   "text": "¡Vamos pues, que el hornado se enfría!",
+   "event": "talker",
+   "world": "viento",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "t_lav0",
+   "text": "¡Arrarray, cuidado que quema!",
+   "event": "talker",
+   "world": "lava",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "t_lav1",
+   "text": "¡Hierve la cosa, mijo!",
+   "event": "talker",
+   "world": "lava",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "t_lav2",
+   "text": "Calientito sí, pero el volcán no",
+   "event": "talker",
+   "world": "lava",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "t_lav3",
+   "text": "¡Aguas con la ceniza, ñaño!",
+   "event": "talker",
+   "world": "lava",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "t_lav4",
+   "text": "¡Qué fuerte, ve!",
+   "event": "talker",
+   "world": "lava",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "t_lav5",
+   "text": "Papita con chorizo, calentita nomás",
+   "event": "talker",
+   "world": "lava",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "t_sel0",
+   "text": "¡Qué chévere el maito, pana!",
+   "event": "talker",
+   "world": "selva",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "t_sel1",
+   "text": "Aquí no hay cobertura, ¡pero hay comida!",
+   "event": "talker",
+   "world": "selva",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "t_sel2",
+   "text": "¡Cuidado con la liana, ñaño!",
+   "event": "talker",
+   "world": "selva",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "t_sel3",
+   "text": "¡Atatay, qué bicho!",
+   "event": "talker",
+   "world": "selva",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "t_sel4",
+   "text": "Yapita de chonta, ¿le sirvo?",
+   "event": "talker",
+   "world": "selva",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "t_sel5",
+   "text": "¡Pilas que llueve!",
+   "event": "talker",
+   "world": "selva",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "m_vamos",
+   "text": "¡Vamos bien, cóndor!",
+   "event": "milestone",
+   "world": "all",
+   "source": "original",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "m_belleza",
+   "text": "¡Belleza!",
+   "event": "milestone",
+   "world": "all",
+   "source": "jerga-verificada",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "m_chevere",
+   "text": "¡Qué chévere!",
+   "event": "milestone",
+   "world": "all",
+   "source": "jerga-verificada",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "m_mitad",
+   "text": "¡Ya mismito, ya mismito!",
+   "event": "milestone",
+   "world": "all",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "m_yapa",
+   "text": "¡Y con yapa!",
+   "event": "milestone",
+   "world": "all",
+   "source": "jerga-verificada",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "h0",
+   "text": "¡Ayayay!",
+   "event": "hit",
+   "world": "all",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "h1",
+   "text": "¡Achachay!",
+   "event": "hit",
+   "world": "all",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "h2",
+   "text": "¡Chuta!",
+   "event": "hit",
+   "world": "all",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "h3",
+   "text": "¡Pilas, cóndor!",
+   "event": "hit",
+   "world": "all",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "h4",
+   "text": "¡Aguas!",
+   "event": "hit",
+   "world": "all",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "w1",
+   "text": "¡Belleza, mi ñaño! ¡Misión cumplida!",
+   "event": "win",
+   "world": "all",
+   "source": "documentada",
+   "weight": 1,
+   "enabled": true,
+   "ref": "https://www.primicias.ec/noticias/el-chat/frases-celebres-guayacas-hilo-twitter"
+  },
+  {
+   "id": "w2",
+   "text": "¡Qué bacán! ¡Eso estuvo de ley!",
+   "event": "win",
+   "world": "all",
+   "source": "jerga-verificada",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "w3",
+   "text": "¡Ya mismito se acaba el hambre!",
+   "event": "win",
+   "world": "all",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "l1",
+   "text": "Más perdido que camarón en locro…",
+   "event": "lose",
+   "world": "all",
+   "source": "documentada",
+   "weight": 1,
+   "enabled": true,
+   "ref": "https://www.primicias.ec/noticias/el-chat/frases-celebres-guayacas-hilo-twitter"
+  },
+  {
+   "id": "l2",
+   "text": "El que no llora no mama… ¡otra vez!",
+   "event": "lose",
+   "world": "all",
+   "source": "documentada",
+   "weight": 1,
+   "enabled": true,
+   "ref": "https://www.primicias.ec/noticias/el-chat/frases-celebres-guayacas-hilo-twitter"
+  },
+  {
+   "id": "l3",
+   "text": "Ni modo, ¡a darle otra vez!",
+   "event": "lose",
+   "world": "all",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "l4",
+   "text": "¡Chuta! Falta poquito, ñaño",
+   "event": "lose",
+   "world": "all",
+   "source": "jerga",
+   "weight": 1,
+   "enabled": true
+  },
+  {
+   "id": "x_ternura",
+   "text": "Yo necesito amor, comprensión y ternura",
+   "event": "talker",
+   "world": "all",
+   "source": "documentada",
+   "weight": 1,
+   "enabled": false,
+   "ref": "https://www.vistazo.com/amp/hogar/entretenimiento/2026-06-03-fonseca-convierte-cancion-una-frases-mas-famosas-ecuador-KC11028714",
+   "note": "Meme muy famoso, pero nace de una entrevista a una persona con problemas de adicción. Decisión de David antes de activarla."
+  },
+  {
+   "id": "x_bailarina",
+   "text": "Cállese que usted es bailarina",
+   "event": "talker",
+   "world": "all",
+   "source": "documentada",
+   "weight": 1,
+   "enabled": false,
+   "ref": "https://www.expreso.ec/ocio/virales-fama-llego-sorpresa-130501.html",
+   "note": "Discusión real en TV entre dos personas. Decisión de David antes de activarla."
+  }
+ ]
+}

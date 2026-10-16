@@ -1,0 +1,13 @@
+import { serve, launch } from './lib.mjs';
+const { server, port } = await serve();
+const browser = await launch();
+const page = await browser.newPage({ viewport: { width: 844, height: 390 } });
+const logs = [];
+page.on('console', (m) => logs.push(m.type() + ': ' + m.text()));
+page.on('pageerror', (e) => logs.push('PAGEERROR: ' + e.message));
+await page.goto(`http://127.0.0.1:${port}/`);
+await page.waitForTimeout(2000);
+const info = await page.evaluate(() => ({ type: window.__game.config.renderType, renderer: window.__game.renderer.constructor.name }));
+console.log(JSON.stringify(info), logs.slice(0, 8));
+await page.screenshot({ path: '/tmp/smoke.png' });
+await browser.close(); server.close();

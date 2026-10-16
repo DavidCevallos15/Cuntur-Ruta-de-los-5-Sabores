@@ -1,0 +1,1 @@
+{ "gravity": 900, "flapV": -250, "maxFall": 320, "step": 0.008333333333333333, "stepsPerDecision": 2 }

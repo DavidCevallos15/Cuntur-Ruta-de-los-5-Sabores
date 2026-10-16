@@ -1,0 +1,110 @@
+{
+  "flap": {
+    "label": "Aleteo",
+    "files": [
+      "flap.ogg",
+      "flap.mp3"
+    ],
+    "durationMs": 160,
+    "source": "synth"
+  },
+  "collect": {
+    "label": "Recoger comida",
+    "files": [
+      "collect.ogg",
+      "collect.mp3"
+    ],
+    "durationMs": 210,
+    "source": "synth"
+  },
+  "collect_big": {
+    "label": "Hito de la barra",
+    "files": [
+      "collect_big.ogg",
+      "collect_big.mp3"
+    ],
+    "durationMs": 570,
+    "source": "synth"
+  },
+  "hit": {
+    "label": "Choque",
+    "files": [
+      "hit.ogg",
+      "hit.mp3"
+    ],
+    "durationMs": 280,
+    "source": "synth"
+  },
+  "heart_lost": {
+    "label": "Pierde un corazón",
+    "files": [
+      "heart_lost.ogg",
+      "heart_lost.mp3"
+    ],
+    "durationMs": 349,
+    "source": "synth"
+  },
+  "win": {
+    "label": "Victoria del mundo",
+    "files": [
+      "win.ogg",
+      "win.mp3"
+    ],
+    "durationMs": 1030,
+    "source": "synth"
+  },
+  "lose": {
+    "label": "Derrota",
+    "files": [
+      "lose.ogg",
+      "lose.mp3"
+    ],
+    "durationMs": 1060,
+    "source": "synth"
+  },
+  "portal_open": {
+    "label": "Se abre el portal",
+    "files": [
+      "portal_open.ogg",
+      "portal_open.mp3"
+    ],
+    "durationMs": 800,
+    "source": "synth"
+  },
+  "ui_click": {
+    "label": "Clic de interfaz",
+    "files": [
+      "ui_click.ogg",
+      "ui_click.mp3"
+    ],
+    "durationMs": 34,
+    "source": "synth"
+  },
+  "squish": {
+    "label": "Enemigo aplastado (chontacuro)",
+    "files": [
+      "squish.ogg",
+      "squish.mp3"
+    ],
+    "durationMs": 260,
+    "source": "synth"
+  },
+  "crunch": {
+    "label": "Chifle crujiente",
+    "files": [
+      "crunch.ogg",
+      "crunch.mp3"
+    ],
+    "durationMs": 254,
+    "source": "synth"
+  },
+  "gust": {
+    "label": "Ráfaga de viento",
+    "files": [
+      "gust.ogg",
+      "gust.mp3"
+    ],
+    "durationMs": 1000,
+    "source": "synth"
+  }
+}
